@@ -16,6 +16,11 @@ const routes = [
     component: () => import('../views/contact.vue')
   },
   {
+    path: '/nav',
+    name: 'nav',
+    component: () => import('../views/navbar.vue')
+  },
+  {
     path: '/about',
     name: 'about',
     // route level code-splitting
