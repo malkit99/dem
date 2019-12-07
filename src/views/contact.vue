@@ -55,7 +55,7 @@
           >
             mail
           </v-icon>
-        </v-badge>
+        </v-badge> 
       </v-col>
     </v-row>
   </v-container>
